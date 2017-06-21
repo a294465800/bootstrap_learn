@@ -8,5 +8,11 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="bootstrap-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="express-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="formidable-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="jQuery-2.0.0" level="application" />
+    <orderEntry type="library" name="bootstrap.v3.datetimepicker-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="bootstrap-datepicker-DefinitelyTyped" level="application" />
   </component>
 </module>

@@ -8,13 +8,4 @@
     <exe-path />
     <config-path />
   </component>
-  <component name="JsFlowSettings">
-    <service-enabled>true</service-enabled>
-    <exe-path />
-    <annotation-enable>false</annotation-enable>
-    <other-services-enabled>true</other-services-enabled>
-  </component>
-  <component name="SvnConfiguration">
-    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
-  </component>
 </project>
